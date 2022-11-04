@@ -5,7 +5,7 @@
 + add more bags and set how much weight they will add to intial weight 
 
 # PREVIEW
-- <a href="https://youtu.be/TODO">TODO</a>
+- <a href="https://youtu.be/hhb3UqTcvu0">here</a>
 
 # HOW TO INSTALL
 + drag and drop
