@@ -19,7 +19,6 @@ client_scripts {
 }
 
 server_scripts {
-	--'@oxmysql/lib/MySQL.lua',
 	'server/*.lua'	
 }
 
@@ -29,6 +28,5 @@ files {
 
 dependencies {
 	'ox_lib',
-	'ox_target',
 	'es_extended'
 }
