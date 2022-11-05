@@ -6,7 +6,7 @@ lua54 'yes'
 
 description "gives a bag to player to extend his carry capacity "
 author "daiguel"
-version "1.0.0"
+version "1.0.3"
 
 shared_scripts {
 	'@es_extended/imports.lua',
