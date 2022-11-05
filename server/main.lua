@@ -64,7 +64,7 @@ AddEventHandler("bengbeng:extendsCarryCapacity", function(weightToAdd)
     end
 end)
 
-
+lib.versionCheck('daiguel/bengbeng')
 --drop one by one Wait is fucking server perfs 
 -- RegisterNetEvent("bengbeng:extendsCarryCapacity")
 -- AddEventHandler("bengbeng:extendsCarryCapacity", function (weightToAdd)
