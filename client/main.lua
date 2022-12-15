@@ -6,7 +6,7 @@ local refreshRate = Config.refreshRate
 
 local function getBagCapacity(bag)
     for _, v in pairs(bagsInfo) do 
-        if v.bagNum==bag then return v.capacity end
+        if v.bagNum==bag and v.model == GetEntityModel(PlayerPedId()) then return v.capacity end
     end 
     return 0
     
